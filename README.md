@@ -18,10 +18,6 @@ Haze is a **frontend-only** Home Management Dashboard System designed for a mode
 ## Live Demo  
 Check it out here: **[Haze - Home Dashboard](https://weather-web-app-mu-three.vercel.app/)**  
 
-## Future Improvements  
-- Add backend functionality with **Node.js & MongoDB**  
-- Implement authentication for user profiles  
-- Integrate smart home API connections  
 
 ## Author  
 🚀 Built by me to improve **frontend development skills!**  
